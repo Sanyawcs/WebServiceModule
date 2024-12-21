@@ -1,0 +1,11 @@
+D:\DataModule\bin\Debug\net8.0\DataModule.deps.json
+D:\DataModule\bin\Debug\net8.0\DataModule.dll
+D:\DataModule\bin\Debug\net8.0\DataModule.pdb
+D:\DataModule\obj\Debug\net8.0\DataModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataModule\obj\Debug\net8.0\DataModule.AssemblyInfoInputs.cache
+D:\DataModule\obj\Debug\net8.0\DataModule.AssemblyInfo.cs
+D:\DataModule\obj\Debug\net8.0\DataModule.csproj.CoreCompileInputs.cache
+D:\DataModule\obj\Debug\net8.0\DataModule.dll
+D:\DataModule\obj\Debug\net8.0\refint\DataModule.dll
+D:\DataModule\obj\Debug\net8.0\DataModule.pdb
+D:\DataModule\obj\Debug\net8.0\ref\DataModule.dll
